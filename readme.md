@@ -1,7 +1,8 @@
 # Learn from chai aur code
 
 ## Install
-These are some installation instructions 
+These are some installation instructions
+
 ```bash
 npm install
 ```
